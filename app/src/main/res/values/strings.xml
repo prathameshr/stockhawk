@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Stock Hawk</string>
+    <string name="action_change_units" translatable="false">Change Units</string>
+    <string name="symbol_search" translatable="false">Symbol Search</string>
+    <string name="content_test" translatable="false">Search for a Stock Symbol</string>
+    <string name="input_hint" translatable="false">FB</string>
+    <string name="input_prefill" translatable="false"/>
+    <string name="widget_title" translatable="false">Today\'s Market</string>
+    <string name="network_toast" translatable="false">No connectivity! This app requires an network connection.</string>
+    <string name="add_stock_button" translatable="false">Press the + button to add a stock</string>
+    <string name="offline_mesg" translatable="false">No network connection! Your stocks may be out of date.</string>
+    <string name="stocks_saved" translatable="false">This stock is already saved!</string>
+    <string name="invalid_symbol" translatable="false">Error! symbol Not found.</string>
+    <string name="add_stock" translatable="false">Add a Stock</string>
+    <string name="detail_stock" translatable="false">Stock</string>
+    <string name="error_mesg">Error</string>
+    <string name="stock">Stock</string>
+    <string name="network_error">Something went wrong. Please check your network connection and try again.</string>
+</resources>
